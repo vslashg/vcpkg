@@ -6,7 +6,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO GoogleCloudPlatform/google-cloud-cpp
     REF a0f27355af654605b321e764a7dd9464c54340a3
-    SHA512 90f876ebf4bea40c5bc12d2bd20d27b48202f951d57a68b657c07b7d468b2ac5a00e39a3a6fca48f92030d89ba7d9706eb52b3c8e734b392aee63632af042b5d
+    SHA512 021c5f32f1bf2a9d57519076575f2382f86de1a2af604b9c87714f9569c53ee87794fcd854644d34f777ce7bea06adb44cb8c779ae41c78bbe7f4826db457e4c
     HEAD_REF master
     PATCHES
         include-protobuf.patch
